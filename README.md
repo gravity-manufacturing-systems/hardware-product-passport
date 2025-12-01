@@ -2,7 +2,6 @@
 
 Version: 1.1.0   
 Owner: @gravity-manufacturing-systems
-Last Updated: 30-11-2025
 
 ## 1. Purpose
 
