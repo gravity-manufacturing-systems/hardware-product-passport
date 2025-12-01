@@ -1,7 +1,6 @@
 # Product Passport ID & Secure NFC Binding Specification
 
-Version: 1.1.0   
-Owner: @gravity-manufacturing-systems
+Version: 1.1.0
 
 ## 1. Purpose
 
