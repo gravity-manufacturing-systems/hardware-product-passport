@@ -1,7 +1,6 @@
 # Product Passport ID & Secure NFC Binding Specification
 
-Version: 1.1.0  
-Status: Integration-ready  
+Version: 1.1.0   
 Owner: @gravity-manufacturing-systems
 Last Updated: 30-11-2025
 
